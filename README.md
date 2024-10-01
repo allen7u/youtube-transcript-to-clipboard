@@ -12,6 +12,7 @@ https://getquicker.net/Sharedaction?code=9bf14774-f55d-469f-2e7d-08dce1d6121b
 2，导入 Quicker 动作的分享链接（默认在 Chrome 窗口下生效）
 
 3，修改该动作以指向步骤一中的路径
+
 ![image](https://github.com/user-attachments/assets/130760bb-d56c-43d3-9a74-b8763415736c)
 ![image](https://github.com/user-attachments/assets/7d983036-2960-4e8a-893a-828dfc69ec63)
 
