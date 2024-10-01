@@ -5,6 +5,14 @@ YouTube URL > subtitle.txt > Clipboard
 
 https://getquicker.net/Sharedaction?code=9bf14774-f55d-469f-2e7d-08dce1d6121b
 
+### 使用：
+
+1，从 YouTube 搜索结果或相关推荐中“复制链接地址”
+
+2，呼出 Quicker 插件（如单击 Ctrl），点击导入的动作
+
+3，在 ChatGPT 等工具的输入框中 Ctrl + V
+
 ### 配置：
 
 1，下载该 repository 到合适的路径并安装依赖
@@ -15,14 +23,6 @@ https://getquicker.net/Sharedaction?code=9bf14774-f55d-469f-2e7d-08dce1d6121b
 
 ![image](https://github.com/user-attachments/assets/130760bb-d56c-43d3-9a74-b8763415736c)
 ![image](https://github.com/user-attachments/assets/7d983036-2960-4e8a-893a-828dfc69ec63)
-
-### 使用：
-
-1，从 YouTube 搜索结果或相关推荐中“复制链接地址”
-
-2，呼出 Quicker 插件（如单击 Ctrl），点击导入的动作
-
-3，在 ChatGPT 等工具的输入框中 Ctrl + V
 
 ### 原理：
 
